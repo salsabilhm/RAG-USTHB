@@ -185,12 +185,19 @@ Planned improvements include:
 | **Salsabil Hamdane** | Embeddings, database integration, similarity-based retrieval, and Django REST backend. |
 | **Mohamed Amine** | Frontend development and student-facing user experience. |
 
+
 ## Project Links
 
 - **Live Application:** https://rag-usthb-flrj.vercel.app
 - **GitHub Repository:** https://github.com/sofiakhorf/RAG-USTHB
-- **Backend API:** https://rag-usthb-1.onrender.com
-- **Hugging Face Embedding Service:** https://huggingface.co/spaces/salsabilhm/rag-usthb-embeddings
+##  Presentation & Demo
+
+Explore the SAHLA project presentation and demo materials:
+
+🔗 **[View the Presentation and Demo](https://drive.google.com/drive/folders/1fUvbovEc808EJawweJ0kosML_uYqvWls?usp=sharing)**
+
+The folder contains the project presentation and demonstration materials.
+
 
 ---
 
